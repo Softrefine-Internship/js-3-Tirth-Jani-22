@@ -6,6 +6,6 @@
 
 // Example 2:
 // Input: obj1: { name: "John", degree: "CS" }, obj2: {name: "Max", age: 23, degree: "CS"}
-// Output: false
+// Output: fals
 
 
